@@ -1,0 +1,4 @@
+require 'parstack'
+
+chatter = Parstack::Chatter.new
+chatter.test
