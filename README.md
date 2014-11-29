@@ -1,4 +1,4 @@
-[Imgur](http://i.imgur.com/IGexlX5.png)
+![Imgur](http://i.imgur.com/IGexlX5.png)
 
 # Par stack
 
