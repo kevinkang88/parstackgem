@@ -4,6 +4,10 @@
 
 PAR is a framework for an easy starting point with PostgreSQL, Angular.Js, and Rails based applications. It is designed to give you a quick and organized way to start developing PAR based web apps with useful modules pre-bundled and configured.
 
+## Website
+
+[Visit Website](www.wutangfamo.us/par)
+
 ## Installation
 
 Add this line to your application's Gemfile:
