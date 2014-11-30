@@ -6,7 +6,7 @@ PAR is a framework for an easy starting point with PostgreSQL, Angular.Js, and R
 
 ## Website
 
-[Visit Website](www.wutangfamo.us/par)
+[Visit Website](http://www.wutangfamo.us/par)
 
 ## Installation
 
